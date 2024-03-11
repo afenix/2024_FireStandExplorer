@@ -1,12 +1,22 @@
-# Team Name
+# FireStand Explorer
 
-### Team Members
+### Team Member
+1. Alister A. Fenix
 
 ### Final Proposal
 1. Persona/Scenario
-    1. Persona
-    2. Scenario
+    * Persona:
+    * Scenario:
+
+
 2. Requirements Document
+    1. Representation
+    2. Interaction
+    3. Search
+    4. ...
+
+
+
 
 3. Wireframes
 
